@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/jiangfesam/Projects/Spark/timeusage/target/scala-2.12/bigdata-timeusage_2.12-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	timeusage/TimeUsage.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Spark/timeusage/src/main/scala/timeusage/TimeUsage.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	timeusage/TimeUsageInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Spark/timeusage/src/main/scala/timeusage/TimeUsageInterface.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
